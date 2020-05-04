@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search", "Search\Search.vcxproj", "{049045E0-A71B-4CC9-BFDD-BFDB3CB31ECC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sort", "Sort\Sort.vcxproj", "{9C1EDDDB-BB7A-4588-A383-A127D2762C3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph", "Graph\Graph.vcxproj", "{C485823C-A1AE-480E-8AFD-F103EB1C8A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049045E0-A71B-4CC9-BFDD-BFDB3CB31ECC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{049045E0-A71B-4CC9-BFDD-BFDB3CB31ECC}.Debug|Win32.Build.0 = Debug|Win32
+		{049045E0-A71B-4CC9-BFDD-BFDB3CB31ECC}.Release|Win32.ActiveCfg = Release|Win32
+		{049045E0-A71B-4CC9-BFDD-BFDB3CB31ECC}.Release|Win32.Build.0 = Release|Win32
+		{9C1EDDDB-BB7A-4588-A383-A127D2762C3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C1EDDDB-BB7A-4588-A383-A127D2762C3F}.Debug|Win32.Build.0 = Debug|Win32
+		{9C1EDDDB-BB7A-4588-A383-A127D2762C3F}.Release|Win32.ActiveCfg = Release|Win32
+		{9C1EDDDB-BB7A-4588-A383-A127D2762C3F}.Release|Win32.Build.0 = Release|Win32
+		{C485823C-A1AE-480E-8AFD-F103EB1C8A77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C485823C-A1AE-480E-8AFD-F103EB1C8A77}.Debug|Win32.Build.0 = Debug|Win32
+		{C485823C-A1AE-480E-8AFD-F103EB1C8A77}.Release|Win32.ActiveCfg = Release|Win32
+		{C485823C-A1AE-480E-8AFD-F103EB1C8A77}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

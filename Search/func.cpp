@@ -43,7 +43,7 @@ bool InitTree(BiTree &T){
 	T = NULL;
 	return 1;
 }
-//构造二叉树
+//先序构造二叉树
 bool CreatTree(BiTree &T,ifstream &file){
 	char ch;
 	file >> ch;

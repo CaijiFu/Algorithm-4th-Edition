@@ -11,10 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{049045E0-A71B-4CC9-BFDD-BFDB3CB31ECC}</ProjectGuid>
+    <ProjectGuid>{C75796C2-C878-4BB9-BD44-7A44D66E43A1}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Search</RootNamespace>
-    <ProjectName>Search3_2</ProjectName>
+    <RootNamespace>Search3_3</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -79,15 +78,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Search.h" />
+    <ClInclude Include="search33.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="func.cpp" />
     <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="binarysearchtree.txt" />
-    <Text Include="binarytree.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

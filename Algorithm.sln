@@ -7,9 +7,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search3_2", "Search\Search.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sort", "Sort\Sort.vcxproj", "{9C1EDDDB-BB7A-4588-A383-A127D2762C3F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph", "Graph\Graph.vcxproj", "{C485823C-A1AE-480E-8AFD-F103EB1C8A77}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph4_1", "Graph\Graph.vcxproj", "{C485823C-A1AE-480E-8AFD-F103EB1C8A77}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search3_3", "Search3_3\Search3_3.vcxproj", "{C75796C2-C878-4BB9-BD44-7A44D66E43A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search3_4", "Search3_4\Search3_4.vcxproj", "{1217AC56-BF6A-4638-85A8-A5EB489C900B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph4_2", "Graph4_2\Graph4_2.vcxproj", "{26B74B87-1051-4F6E-B702-6D6EC2598B34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C75796C2-C878-4BB9-BD44-7A44D66E43A1}.Debug|Win32.Build.0 = Debug|Win32
 		{C75796C2-C878-4BB9-BD44-7A44D66E43A1}.Release|Win32.ActiveCfg = Release|Win32
 		{C75796C2-C878-4BB9-BD44-7A44D66E43A1}.Release|Win32.Build.0 = Release|Win32
+		{1217AC56-BF6A-4638-85A8-A5EB489C900B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1217AC56-BF6A-4638-85A8-A5EB489C900B}.Debug|Win32.Build.0 = Debug|Win32
+		{1217AC56-BF6A-4638-85A8-A5EB489C900B}.Release|Win32.ActiveCfg = Release|Win32
+		{1217AC56-BF6A-4638-85A8-A5EB489C900B}.Release|Win32.Build.0 = Release|Win32
+		{26B74B87-1051-4F6E-B702-6D6EC2598B34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26B74B87-1051-4F6E-B702-6D6EC2598B34}.Debug|Win32.Build.0 = Debug|Win32
+		{26B74B87-1051-4F6E-B702-6D6EC2598B34}.Release|Win32.ActiveCfg = Release|Win32
+		{26B74B87-1051-4F6E-B702-6D6EC2598B34}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

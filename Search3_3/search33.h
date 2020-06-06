@@ -8,6 +8,17 @@
 #include<algorithm>
 using namespace std;
 
+#define BLACK true;
+#define RED false;
+
+struct Node{
+	char c;
+	Node * left;
+	Node * right;
+	bool color;
+	int size;
+};
+
 
 
 

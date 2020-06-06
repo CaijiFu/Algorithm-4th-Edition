@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9C1EDDDB-BB7A-4588-A383-A127D2762C3F}</ProjectGuid>
+    <ProjectGuid>{1217AC56-BF6A-4638-85A8-A5EB489C900B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Sort</RootNamespace>
+    <RootNamespace>Search3_4</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,14 +78,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="sort.h" />
+    <ClCompile Include="funccpp.cpp" />
+    <ClCompile Include="maincpp.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="func.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClInclude Include="search3_4.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\Search3_4\info.txt" />
+    <Text Include="info.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
